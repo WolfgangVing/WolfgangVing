@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=wolfgangving&label=Profile%20views&color=0e75b6&style=flat" alt="wolfgangving" /> </p>
 
-- 🌱 I’m currently learning **Node.js, Express.js, MongoDB and Mongoose.**
+- 🌱 I’m currently learning **Full-Stack - _back-end-ish_**
 
 - 📫 How to reach me **ycss.v1@gmail.com**
 
